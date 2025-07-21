@@ -114,7 +114,7 @@ All colors MUST be HSL.
   }
 
   body {
-    @apply bg-background text-foreground font-inter;
+    @apply /*bg-background*/ text-foreground font-inter;
     font-family: 'Inter', system-ui, -apple-system, sans-serif;
     font-display: swap;
     line-height: 1.6;
